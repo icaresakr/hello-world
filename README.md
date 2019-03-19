@@ -2,7 +2,7 @@
 first one in104
 My name is Icare Sakr
 
-#git
+## git
 
 Creer un depot:
 git init
